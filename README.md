@@ -15,6 +15,8 @@ The dataset contains the following columns:
 - **Reading Score**: Student's reading exam score
 - **Writing Score**: Student's writing exam score
 
+  Dataset link: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+
 ---
 
 ## Features of the Project
